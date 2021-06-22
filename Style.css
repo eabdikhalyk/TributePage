@@ -1,0 +1,32 @@
+#main {
+	max-width: 1300px;
+	background-color:#f2f2f2;
+	margin: auto;
+}
+
+h1,h2, p{
+	text-align: center;
+}
+img {
+	 width=100%;	 	 
+}
+#img-div {
+	max-width: 1200px;
+	text-align: center;
+	background-color:#ffffff;
+	margin: auto;
+}
+#img-caption{
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+#ul-tribute-info{
+	width:500px;
+	margin: auto;
+}
+li {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
